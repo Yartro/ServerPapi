@@ -1,0 +1,7 @@
+ollama-url: http://localhost:11434/api/generate
+model: tinyllama
+chat-prefix: AI
+cooldown: 60
+response-chance: 0.5
+inactivity-response: 600
+response-chance-inactivity: 0.2
